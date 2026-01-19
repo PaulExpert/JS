@@ -1,0 +1,49 @@
+const name=Paul;
+const age=15;
+
+const yearsUntilTurn=18-age;
+console.log(`Hello, my name is ${name}. I will turn 18 in ${UntilTurn18} yeras.`);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
